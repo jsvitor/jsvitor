@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
+### 🧊 I’m currently learning about Data Engineering
+- at Accenture Data Engineering Academy by Gama Academy
+- at Bootcamp Data Engineer at Banco Carrefour
 <!--
 **jsvitor/jsvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +17,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🎒 Here I share learn resources, enjoy it
 <details>
-  <summary>Click to see sites offering free online courses💜</summary>
+  <summary><b>Free online courses</b>💜</summary>
   
+  ## in English
+  * [FreeCodeCamp](https://www.freecodecamp.org)
+  * [SoloLearn](https://www.sololearn.com)
+  * [Coursera](https://www.coursera.org)
+  * [Khan Academy](https://www.khanacademy.org/)
+  * [Harvard University](https://online-learning.harvard.edu/catalog/free)
+  * [Udacity](https://www.udacity.com)
+  * [Alison](https://alison.com)
+ 
   ## in Portuguese
   * [Digital Innovation One](https://web.digitalinnovation.one)
   * [Gama Accademy](https://www.gama.academy)
@@ -25,4 +38,8 @@ Here are some ideas to get you started:
   * [TIM Tec](https://cursos.timtec.com.br/courses)
   * [BRASIL MAIS DIGITAL](http://www.brasilmaisdigital.org.br/index.php/pt-br/)
   * [Centro Paula Souza](https://portalgeead.cps.sp.gov.br/mooc)
+  * [Kultivi](https://kultivi.com)
 </details>
+
+
+
