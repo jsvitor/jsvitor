@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary>Click to see sites offering free online courses💜</summary>
+  
+  ## in Portuguese
+  * [Digital Innovation One](https://web.digitalinnovation.one)
+  * [Gama Accademy](https://www.gama.academy)
+  * [Rocketseat](https://rocketseat.com.br)
+  * [Fundação Bradesco](https://www.ev.org.br/Cursos)
+  * [TIM Tec](https://cursos.timtec.com.br/courses)
+  * [BRASIL MAIS DIGITAL](http://www.brasilmaisdigital.org.br/index.php/pt-br/)
+  * [Centro Paula Souza](https://portalgeead.cps.sp.gov.br/mooc)
+</details>
