@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 🧊 I’m currently learning about Data Engineering
-- at Accenture Data Engineering Academy by Gama Academy
-- at Bootcamp Data Engineer at Banco Carrefour
+- Data Engineering at Accenture Academy
+- Data Engineer bootcamp at Banco Carrefour
 <!--
 **jsvitor/jsvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
