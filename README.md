@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🧊 I’m currently learning about Data Engineering
+### 🧊 I’m currently learning about Data Engineering in
 - Data Engineering at Accenture Academy
 - Data Engineer bootcamp at Banco Carrefour
 <!--
