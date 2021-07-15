@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   * [Titanic model](https://colab.research.google.com/github/jsvitor/data-engineer-banco-carrefour/blob/main/titanic_model.ipynb)
 </details>
 -->
-### 🎒 Here I share learn resources, enjoy it
+### Learn resources, enjoy it
 <details>
   <summary><b>Free online courses</b>💜</summary>
   
