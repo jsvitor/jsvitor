@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### 🧊 I’m currently learning about Data Engineering in
-- Data Engineering at Accenture Academy
-- Data Engineer bootcamp at Banco Carrefour
+### I’m currently learning about Data Engineering at
+
+🟦 [Bootcamp Data Engineer | Banco Carrefour](https://github.com/jsvitor/data-engineer-banco-carrefour.git)
 <!--
 **jsvitor/jsvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Projects and bootcamps that I did
+<details>
+  <summary><b>Data Engineer</b>💜</summary>
+  
+  #### 💹 Data exploration with Python
+  * [Titanic model](https://colab.research.google.com/github/jsvitor/data-engineer-banco-carrefour/blob/main/titanic_model.ipynb)
+</details>
+
+<details>
+  <summary><b>Data Engineer</b>💜</summary>
+  
+  #### 💹 Data exploration with Python
+  * [Titanic model](https://colab.research.google.com/github/jsvitor/data-engineer-banco-carrefour/blob/main/titanic_model.ipynb)
+</details>
 -->
 ### 🎒 Here I share learn resources, enjoy it
 <details>
