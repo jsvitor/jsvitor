@@ -2,7 +2,7 @@
 
 ### I’m currently learning about Data Engineering at
 
-🟦 [Bootcamp Data Engineer | Banco Carrefour](https://github.com/jsvitor/data-engineer-banco-carrefour.git)
+🟦 [Bootcamp Cloud Data Engineer | Cognizant ](https://github.com/jsvitor/cloud-data-engineer-by-cognizant)
 <!--
 **jsvitor/jsvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
