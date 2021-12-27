@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   * [Alison](https://alison.com)
  
   ## in Portuguese
-  * [Digital Innovation One](https://web.digitalinnovation.one)
+  * [Digital Innovation One](http://dio.me)
   * [Gama Accademy](https://www.gama.academy)
   * [Rocketseat](https://rocketseat.com.br)
   * [Fundação Bradesco](https://www.ev.org.br/Cursos)
