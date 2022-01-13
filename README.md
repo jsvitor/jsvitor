@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### I’m currently working as an intern in data analysis
+
 ### I’m currently learning about Data Engineering at
 
 🟦 [Bootcamp Cloud Data Engineer | Cognizant ](https://github.com/jsvitor/cloud-data-engineer-by-cognizant)
