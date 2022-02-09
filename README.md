@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I’m currently working as an intern in data analysis
+### I’m currently working as Data Engineer Intern
 
 ### I’m currently learning about Data Engineering at
 
