@@ -47,6 +47,8 @@ Here are some ideas to get you started:
   * [Harvard University](https://online-learning.harvard.edu/catalog/free)
   * [Udacity](https://www.udacity.com)
   * [Alison](https://alison.com)
+  
+  * [Apache Airflow | Learning path](https://github.com/jghoman/awesome-apache-airflow)
  
   ## in Portuguese
   * [Digital Innovation One](http://dio.me)
