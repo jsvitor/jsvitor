@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-### I’m currently working as Data Engineer Intern
-Docker, AirFlow, Python, SQL, ...
-<!--
-### I’m currently learning about Data Engineering at
+### I’m working as Data Engineer Intern using
+Docker, AirFlow, Python, SQL, ... and solving (on-demand) problems with various other tools.
 
-🟦 [Bootcamp Cloud Data Engineer | Cognizant ](https://github.com/jsvitor/cloud-data-engineer-by-cognizant)
+#### My data engineering articles
+🟦 [Tools and concepts to increase data infrastructure robustness and resilience](https://gist.github.com/jsvitor/40236dab063dc312e1f67eb314c8dee1)
+
+<!--
 
 **jsvitor/jsvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
