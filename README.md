@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I’m working as Data Engineer Intern using
+### I’m working as Data Engineer using
 Docker, AirFlow, Python, SQL, ... and solving (on-demand) problems with various other tools.
 
 #### My data engineering articles/tips
