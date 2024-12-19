@@ -1,4 +1,5 @@
 #### data engineering articles/tips
+[data engineer handbook](https://github.com/DataExpert-io/data-engineer-handbook)
 [Tools and concepts to increase data infrastructure robustness and resilience](https://gist.github.com/jsvitor/40236dab063dc312e1f67eb314c8dee1)
 
 <!--
