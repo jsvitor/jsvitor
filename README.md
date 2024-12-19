@@ -34,13 +34,14 @@ Here are some ideas to get you started:
   * [Titanic model](https://colab.research.google.com/github/jsvitor/data-engineer-banco-carrefour/blob/main/titanic_model.ipynb)
 </details>
 -->
-### Learn resources, enjoy it
+
 <details>
-  <summary><b>Free online courses</b>💜</summary>
-  
-  ## in English
+  <summary><b>Some learn resources</b></summary>
+
   * [FreeCodeCamp](https://www.freecodecamp.org)
+  * [roadmap.sh](https://roadmap.sh/)
   * [SoloLearn](https://www.sololearn.com)
+  * [Saylor Academy](https://www.saylor.org)
   * [Coursera](https://www.coursera.org)
   * [Khan Academy](https://www.khanacademy.org/)
   * [Harvard University](https://online-learning.harvard.edu/catalog/free)
@@ -48,16 +49,7 @@ Here are some ideas to get you started:
   * [Alison](https://alison.com)
   
   * [Apache Airflow | Learning path](https://github.com/jghoman/awesome-apache-airflow)
- 
-  ## in Portuguese
-  * [Digital Innovation One](http://dio.me)
-  * [Gama Accademy](https://www.gama.academy)
-  * [Rocketseat](https://rocketseat.com.br)
-  * [Fundação Bradesco](https://www.ev.org.br/Cursos)
-  * [TIM Tec](https://cursos.timtec.com.br/courses)
-  * [BRASIL MAIS DIGITAL](http://www.brasilmaisdigital.org.br/index.php/pt-br/)
-  * [Centro Paula Souza](https://portalgeead.cps.sp.gov.br/mooc)
-  * [Kultivi](https://kultivi.com)
+
 </details>
 
 
