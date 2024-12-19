@@ -1,13 +1,9 @@
-## Hi there 👋
-
-### I’m working as Data Engineer using
-AWS, Airflow, Spark, Python, SQL, Docker, ... and solving (on-demand) problems with various other tools.
-
-#### My data engineering articles/tips
-🟦 [Tools and concepts to increase data infrastructure robustness and resilience](https://gist.github.com/jsvitor/40236dab063dc312e1f67eb314c8dee1)
+#### data engineering articles/tips
+[Tools and concepts to increase data infrastructure robustness and resilience](https://gist.github.com/jsvitor/40236dab063dc312e1f67eb314c8dee1)
 
 <!--
-
+### working as Data Engineer using
+AWS, Airflow, Spark, Python, SQL, Docker, ... and solving (on-demand) problems with various other tools.
 **jsvitor/jsvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
